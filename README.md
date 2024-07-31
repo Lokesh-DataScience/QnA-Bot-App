@@ -1,14 +1,14 @@
-# ChatBotApp
+# QnABotApp
 
 ## Project Overview
 
-ChatBotApp is a python webapp for QnA using Llama-3 model.
+QnABotApp is a python webapp for QnA using Llama-3 model.
 
 ## Repository Contents
 
-- **ChatBotApp.py**: Python script that provides a graphical user interface (GUI) using Streamlit to demonstrate the ChatBot.
-- **ChatBotCode.ipynb**: Jupyter notebook containing the complete code for ChatBot model.
-- **requirements.txt**: List of Python libraries required to run `ChatBotApp.py` and `ChatBotCode.ipynb`.
+- **QnABot.py**: Python script that provides a graphical user interface (GUI) using Streamlit to demonstrate the QnA.
+- **QnABotCode.ipynb**: Jupyter notebook containing the complete code for QnA model.
+- **requirements.txt**: List of Python libraries required to run `QnABot.py` and `QnABotCode.ipynb`.
 
 ## Getting Started
 
